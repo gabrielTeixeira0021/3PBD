@@ -1,0 +1,4 @@
+﻿SELECT * FROM disciplina WHERE 1;
+
+
+SELECT nome, cargaHoraria FROM disciplina WHERE 1;

@@ -1,0 +1,4 @@
+﻿SELECT * FROM `aluno` WHERE 1;
+
+
+SELECT nome FROM `aluno` WHERE alunID=2;

@@ -1,0 +1,10 @@
+﻿CREATE TABLE `aluno` (
+  `alunId` int(11) NOT NULL,
+  `nome` varchar(100) DEFAULT NULL,
+  `cpf` varchar(21) DEFAULT NULL,
+  `matricula` int(11) DEFAULT NULL,
+  `email` varchar(100) DEFAULT NULL,
+  `periodo` smallint(6) DEFAULT NULL,
+  `emailInstitucional` varchar(200) DEFAULT NULL,
+PRIMARY KEY (alunId)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;

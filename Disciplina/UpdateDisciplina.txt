@@ -1,0 +1,6 @@
+﻿Update disciplina SET periodo=1 WHERE discId=1 OR sigla=”CAW”
+
+
+
+
+Update disciplina SET sigla=”2FPR” WHERE discId=2

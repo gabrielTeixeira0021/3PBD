@@ -1,0 +1,9 @@
+﻿CREATE TABLE `disciplina` (
+  `discId` int NOT NULL AUTO_INCREMENT,
+  `nome` varchar(250) DEFAULT NULL,
+  `sigla` varchar(10) DEFAULT NULL,
+  `cargaHoraria` int DEFAULT NULL,
+  `limite_falta` SMALLINT DEFAULT NULL,
+  `periodo` SMALLINT(6) DEFAULT NULL,
+   PRIMARY KEY (discId)
+)
