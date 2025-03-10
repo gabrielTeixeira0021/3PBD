@@ -1,0 +1,19 @@
+INSERT INTO disciplina VALUES 
+(
+    DEFAULT,
+    "Fundamentos de programacao",
+    "FPR",
+    180,
+    20,
+    2
+)
+
+INSERT INTO disciplina VALUES 
+(
+    DEFAULT,
+    "Construção de aplicações web",
+    "2CAW",
+    160,
+    20,
+    2
+)

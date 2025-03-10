@@ -1,0 +1,4 @@
+INSERT INTO `aluno` (`alunId`, `nome`, `cpf`, `matricula`, `email`, `periodo`, `emailInstitucional`) VALUES
+(1, 'Joao Ribeiro', '666.777.333-14', 2132131, 'joao231@gmail.com', 3, NULL),
+(2, 'Camilla Rios', '123.345.322-15', 754346, 'camila123@gmail.com', 4, NULL),
+(3, 'Davy Andrade', '343.654.646-54', 43242343, 'davy@gmail.com', 4, 'davy.2131231232@instituicao-rio.edu.br');
