@@ -1,0 +1,1 @@
+﻿Update aluno SET nome="Joaozinho" WHERE alunId=1

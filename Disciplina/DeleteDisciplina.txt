@@ -1,0 +1,2 @@
+DELETE FROM disciplina WHERE discId=3;
+DELETE FROM disciplina WHERE discId=2

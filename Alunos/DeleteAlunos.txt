@@ -1,0 +1,2 @@
+DELETE FROM aluno WHERE alunId=3;
+DELETE FROM aluno WHERE alunId=1;
