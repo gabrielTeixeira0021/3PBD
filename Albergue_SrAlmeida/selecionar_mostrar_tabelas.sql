@@ -1,8 +1,3 @@
-
--- ============================
--- ITEM 4: Scripts de SELECT (todos os registros e um registro específico)
--- ============================
-
 -- CLIENTE
 SELECT * FROM Cliente;
 SELECT * FROM Cliente WHERE id_cliente = 1;
