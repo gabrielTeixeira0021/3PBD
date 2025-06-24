@@ -1,5 +1,4 @@
--- Projeto Físico - Script de Criação de Tabelas (MySQL / phpMyAdmin)
-
+-- Projeto Físico 
 CREATE TABLE Cliente (
     id_cliente INT AUTO_INCREMENT PRIMARY KEY,
     nome VARCHAR(100) NOT NULL,
